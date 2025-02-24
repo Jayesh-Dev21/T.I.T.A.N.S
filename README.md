@@ -1,8 +1,7 @@
-# Titans   
+# Titans  [CTF Team Website]
 
-# [<img src="image.png" alt="titans" width="50" height="50">](https://t-i-t-a-n-s.github.io/T.I.T.A.N.S/)  -- click here
+# [<img src="image.png" alt="titans" width="50" height="50">](https://t-i-t-a-n-s.github.io/T.I.T.A.N.S/)
 
-CTF team website
 
 ```json
 
