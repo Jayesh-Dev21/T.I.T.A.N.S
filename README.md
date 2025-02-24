@@ -1,6 +1,6 @@
 # Titans   
 
-# [<img src="image.png" alt="titans" width="50" height="50">](https://jayesh-dev21.github.io/T.I.T.A.N.S/)
+# [<img src="image.png" alt="titans" width="50" height="50">](https://jayesh-dev21.github.io/T.I.T.A.N.S/)  -- click here
 
 CTF team website
 
